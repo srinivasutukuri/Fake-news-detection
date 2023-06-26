@@ -9,4 +9,4 @@ They see the aim of that claim in the news.
 Who said that claim?
 What do other people say about that claim?
 They check reports regarding the topic on which the claim came.
-In this predection we are not considering any of above , But this is the good prediction model for the beginners to analyse the working of machine learning
+In this predection we are not considering any of above , But this is the good classification model for the beginners to analyse the working of machine learning
